@@ -1,0 +1,15 @@
+D:\ana jullya\prova7\prova7\obj\Debug\net6.0\prova7.csproj.AssemblyReference.cache
+D:\ana jullya\prova7\prova7\obj\Debug\net6.0\prova7.GeneratedMSBuildEditorConfig.editorconfig
+D:\ana jullya\prova7\prova7\obj\Debug\net6.0\prova7.AssemblyInfoInputs.cache
+D:\ana jullya\prova7\prova7\obj\Debug\net6.0\prova7.AssemblyInfo.cs
+D:\ana jullya\prova7\prova7\obj\Debug\net6.0\prova7.csproj.CoreCompileInputs.cache
+D:\ana jullya\prova7\prova7\bin\Debug\net6.0\prova7.exe
+D:\ana jullya\prova7\prova7\bin\Debug\net6.0\prova7.deps.json
+D:\ana jullya\prova7\prova7\bin\Debug\net6.0\prova7.runtimeconfig.json
+D:\ana jullya\prova7\prova7\bin\Debug\net6.0\prova7.dll
+D:\ana jullya\prova7\prova7\bin\Debug\net6.0\prova7.pdb
+D:\ana jullya\prova7\prova7\obj\Debug\net6.0\prova7.dll
+D:\ana jullya\prova7\prova7\obj\Debug\net6.0\refint\prova7.dll
+D:\ana jullya\prova7\prova7\obj\Debug\net6.0\prova7.pdb
+D:\ana jullya\prova7\prova7\obj\Debug\net6.0\prova7.genruntimeconfig.cache
+D:\ana jullya\prova7\prova7\obj\Debug\net6.0\ref\prova7.dll
